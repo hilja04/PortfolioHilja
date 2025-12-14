@@ -1,0 +1,13 @@
+:root {
+    /*Pääväri*/
+    --bs-primary: #8265a7;
+
+    /*Vaalea korostusväri*/
+    --bs-highlight: #D83F87; 
+
+    /*Tummempi taustaväri*/
+    --bs-secondary: #2A1B3D;
+
+    /*Tummin taustaväri*/
+    --bs-tertiary: #0f0916;
+}
